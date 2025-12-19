@@ -1,4 +1,4 @@
-var user = { name: "鄒羽軒", age: "18" };
+var user = { name:"林旻芸"：age: "21" };
 
 user.name = "某某某";
 user.age = "87";
